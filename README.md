@@ -18,7 +18,7 @@ The application follows **Clean Architecture**:
 * **Domain Layer:** Contains the core entities such as `ServiceRequest`, `Provider`, `Booking`, and `WorkflowLog`.
 * **Data Layer:** Contains mock datasets and the `AgentService`, powered by AI for reasoning and natural language processing.
 * **Application Layer:** Uses `flutter_riverpod`state management (`Notifier`) to manage application state and drive the multi-step agent workflow.
-* **Presentation Layer:** Provides a responsive Flutter UI with a conversational Chat Input for service requests and a live Log Panel for observing the agent's decision-making and workflow execution.
+* **Presentation Layer:** Provides a responsive Flutter UI with a conversational Input for service requests and a live Log Panel for observing the agent's decision-making and workflow execution.
 
 ## How to Run
 
