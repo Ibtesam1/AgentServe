@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653962426262",
+    "project_id": "agentserve-b7fb5",
+    "storage_bucket": "agentserve-b7fb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653962426262:android:b6919198e81b7973a78fb7",
+        "android_client_info": {
+          "package_name": "com.agentserve.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCagDgYjjAFCYqfMtSXoILM6_uWxnqI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
